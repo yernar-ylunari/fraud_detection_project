@@ -80,7 +80,19 @@ Trained models will be saved in the `models/` folder.
 streamlit run app/app.py
 ```
 
+## Results
+
+Final evaluation on `sample.csv` using simplified model parameters:
+
+| Model         | Accuracy | F1 Score | ROC AUC |
+|---------------|----------|----------|---------|
+| RandomForest  | 0.9850   | 0.9400   | 0.9925  |
+| LightGBM      | 0.9850   | 0.9400   | 0.9925  |
+| XGBoost       | 0.9850   | 0.9400   | 0.9925  |
+
+
 ---
+
 
 ## 📂 Data Sources
 
