@@ -101,18 +101,6 @@ python src/train_models.py
 
 ---
 
-## 📈 Reports & Visuals
-- **ROC curves** comparing models
-- **Pipeline diagram** (`reports/figures/pipeline_schema.png`)
-- **Performance metrics table**
-
-Example ROC Curve:  
-![ROC Curve](reports/figures/roc_curve_example.png)
-
-Pipeline Diagram:  
-![Pipeline](reports/figures/pipeline_schema.png)
-
----
 
 ## 📜 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
@@ -120,5 +108,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 ## ✨ Author
-Developed by **Your Name** — ML Engineer  
-GitHub: [yourusername](https://github.com/yourusername)
+Developed by **Iranuly Yernar**
+GitHub: github.com/yernar-ylunari
